@@ -1,0 +1,7 @@
+PAYHERO_LIPWA_URL=https://lipwa.payhero.co.ke/checkout
+PAYHERO_CHANNEL_ID=3329
+PAYHERO_CALLBACK_URL=https://yourdomain.com/callback
+PAYHERO_API_KEY=put_real_key_here
+
+ADMIN_PASS=supersecret
+PORT=3000
